@@ -1,6 +1,6 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: Toán Tiếng Anh
+timezone: Asia/Bangkok
 collections:
   posts:
     title: Posts
@@ -8,15 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-author: GitHub User
-email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+author: Thầy Bá Phong
+email: baphong80@gmail.com
+description: 'Trang web chia sẻ các đề thi Toán Tiếng Anh quốc tế, đồng thời
+  hỗ trợ người học tra cứu theo Dạng Toán, Từ vựng và Ngữ pháp.
 
 '
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: baphong80
+github_username: baphong
 rss: rss
 show_excerpts: false
 minima:
